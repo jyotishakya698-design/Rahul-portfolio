@@ -24,13 +24,13 @@
               <div class="tp-skill-tab tp-tab d-flex align-items-center justify-content-center mb-70">
                   <nav>
                     <div class="nav nav-tabs tp-marker-tab" id="nav-tab" role="tablist">
-                        <button class="nav-link " id="nav-tech-tab" data-bs-toggle="tab"
+                        <!--<button class="nav-link " id="nav-tech-tab" data-bs-toggle="tab"
                           data-bs-target="#nav-tech" type="button" role="tab" aria-controls="nav-tech"
                           aria-selected="true">Tech</button>
                         <button class="nav-link active" id="nav-design-tab" data-bs-toggle="tab"
                           data-bs-target="#nav-design" type="button" role="tab" aria-controls="nav-design"
                           aria-selected="false">Design</button>
-                        <span id="lineMarker"></span>
+                        <span id="lineMarker"></span>-->
                     </div>
                   </nav>
                                             
@@ -78,11 +78,7 @@ const skill_data = [
   {
     tab_id: "tech",
     items: [
-      {
-        img: '/images/skill/angular.png',
-        title: "Angular",
-        percent: 85
-      },
+     
       {
         img: '/images/skill/wp.png',
         title: "WordPress",

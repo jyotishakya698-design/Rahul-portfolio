@@ -23,7 +23,7 @@
                   <h3 class="ab-hero__title tp-char-animation">I’m Diego Luna</h3>
               </div>
               <div class="ab-hero__btn-box">
-                  <a class="tp-btn-border-sm" href="/images/cv/mycv.docx">
+                  <a class="tp-btn-border-sm" href="/images/cv/MyResume.pdf">
                     Download CV
                     <span>
                         <svg-download />

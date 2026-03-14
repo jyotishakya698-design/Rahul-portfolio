@@ -21,19 +21,9 @@
               </div>
               <div class="col-xl-7 col-lg-7">
                   <div class="tp-about-desc">
-                    <div class="tp-about-award d-inline-block">
-                        <div class="tp-about-award-icon d-inline-block mr-15">
-                          <span>
-                              <img src="/images/about/award-icon.svg" alt="">
-                          </span>
-                        </div>
-                        <div class="tp-about-award-content d-inline-block">
-                          <h4 class="tp-about-award-title">Independent Of The Year</h4>
-                          <p>Annual Awards 2020 • awwwards.com</p>
-                        </div>
-                    </div>
+                    
                     <div class="tp-about-desc-content mb-40">
-                        <p>Hello! I’m <span>Diego</span> a self-taught & award-winning <span>Digital Designer & Developer</span> with over <span>fifteen years of work experience</span>. I started in my children’s room and got pro at renowned digital<span> nexum AG</span> agencies.</p>
+                        <p>Hello! I’m <span>Rahul R</span> a self-taught  <span>Graphic, Video Editor & UI/UX Designer</span> with a specialization in visual identity & creative strategy for branding solutions, packaging design.</p>
                     </div>
                     <div class="tp-about-fact">
                         <div class="row">

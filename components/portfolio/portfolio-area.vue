@@ -20,7 +20,7 @@
                     <portfolio-item :item="portfolio_items[0]" />
                   </div>
 
-                  <div class="tp-portfolio-more tp-hover-btn-wrapper tp-btn-bounce-2 d-none d-lg-block">
+                 <!-- <div class="tp-portfolio-more tp-hover-btn-wrapper tp-btn-bounce-2 d-none d-lg-block">
                     <nuxt-link href="/portfolio-details"
                         class="tp-hover-btn tp-hover-btn-item tp-btn-circle-2 d-flex align-items-center justify-content-center flex-column">
                         <span class="tp-btn-circle-text-2">
@@ -31,7 +31,7 @@
                         </span>
                         <i class="tp-btn-circle-dot"></i>
                     </nuxt-link>
-                  </div>
+                  </div>-->
 
               </div>
             </div>

@@ -51,7 +51,7 @@
                     </label>
                   </div>
                   <div class="tp-header-cv ml-10 d-none d-md-block">
-                    <a class="tp-header-cv-btn" href="/images/cv/mycv.docx">
+                    <a class="tp-header-cv-btn" href="/images/cv/MyResume.pdf">
                       <svg-download />
                     </a>
                   </div>
@@ -124,7 +124,7 @@
                     </label>
                   </div>
                   <div class="tp-header-cv ml-10 d-none d-md-block">
-                    <a class="tp-header-cv-btn" href="/images/cv/mycv.docx">
+                    <a class="tp-header-cv-btn" href="/images/cv/MyResume.pdf">
                       <svg-download />
                     </a>
                   </div>

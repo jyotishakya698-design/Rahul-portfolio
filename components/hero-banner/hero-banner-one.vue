@@ -21,12 +21,12 @@
       </div>
       <div class="tp-hero-bottom-text-wrapper">
         <div class="tp-hero-bottom-text">
-            <p>Visual designer</p>
-            <p>Visual designer</p>
+            <p>Graphic designer</p>
+            <p>UI/UX designer</p>
         </div>
         <div class="tp-hero-bottom-text">
-            <p>Visual designer</p>
-            <p>Visual designer</p>
+            <p>Video Editor</p>
+            <p>Motion designer</p>
         </div>
       </div>
       <div class="container">
@@ -36,13 +36,13 @@
                   <div class="tp-hero-content tp_text_anim p-relative z-index-1">
                     <span>Hello There! <img src="/images/hero/hero-hand.png" alt=""></span>
                     <h3 class="tp-hero-title cd-headline clip tp_title_anim">
-                        I am diego <br>
+                        I am Rahul <br>
                         <span class="cd-words-wrapper">
-                          <b class="is-visible">Web</b>
-                          <b class="app">App</b>
-                          <b>UX</b>
+                          <b class="is-visible">Graphic Designer</b>
+                          <b class="app">Video Editor</b>
+                          <b>UI/UX Designer</b>
                         </span>
-                        designer
+                        
                     </h3>
 
                     <p>The combination of my passion for design, code & <br> interaction web design world.</p>

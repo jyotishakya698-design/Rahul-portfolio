@@ -22,11 +22,13 @@
 
 <script setup lang="ts">
 const marquee_data = [
-  { text: "Selected Work (2024)", img: "/images/marquee/smile.svg" },
-  { text: "Diego Template", img: "/images/marquee/stroke.svg" },
-  { text: "Selected Work (2024)", img: "/images/marquee/smile.svg" },
-  { text: "Diego Template", img: "/images/marquee/stroke.svg" },
-  { text: "Selected Work (2024)", img: "/images/marquee/smile.svg" },
-  { text: "Diego Template", img: "/images/marquee/stroke.svg" },
+  { text: "Graphic Designer", img: "/images/marquee/smile.svg" },
+  { text: "Visual Storytelling", img: "/images/marquee/stroke.svg" },
+  { text: "Branding", img: "/images/marquee/smile.svg" },
+  { text: "Logo Design", img: "/images/marquee/stroke.svg" },
+  { text: "Motion Graphics", img: "/images/marquee/smile.svg" },
+  { text: "Creative Design Solutions", img: "/images/marquee/stroke.svg" },
+  { text: "Social Media Creatives", img: "/images/marquee/stroke.svg" },
+  { text: "Video Editing", img: "/images/marquee/stroke.svg" },
 ];
 </script>

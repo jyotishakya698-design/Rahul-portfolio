@@ -23,7 +23,7 @@
     <!-- about area -->
 
     <!-- portfolio area -->
-    <portfolio-area />
+    <project-one/>
     <!-- portfolio area -->
 
     <!-- skill area -->
@@ -47,7 +47,7 @@
 </template>
 
 <script setup lang="ts">
-useSeoMeta({ title: "Home Page - Diego" });
+useSeoMeta({ title: "Rahul Rahul R - Graphic Designer, Video Editor" });
 definePageMeta({ layout: false });
 import {animatedHeadline} from '@/utils/animatedHeadline';
 import {buttonAnimation} from '@/utils/buttonAnimation';

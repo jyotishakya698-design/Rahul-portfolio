@@ -1,6 +1,6 @@
 <template>
   <div class="section">
-    <div class="tp-hero-2__bg black-bg-3 tp-hero-2__space-4 d-flex align-items-center justify-content-start p-relative z-index-1 fix">
+    <div class="tp-hero-2__bg  tp-hero-2__space-4 d-flex align-items-center justify-content-start p-relative z-index-1 fix">
       <div class="tp-hero-2__boder-circle">
         <span></span>
       </div>
@@ -30,7 +30,7 @@
                   :class="`tp-3d-slide ${item.cls ? item.cls : ''} tp-hover-reveal-text`"
                   ref="slideRefs" @mousemove="moveText($event, i)">
                   <nuxt-link
-                    href="/portfolio-details"
+                    href="#"
                     class="tp-portfolio-item-2 include-bg"
                     :style="`background-image:url(${item.img})`"
                   >
@@ -40,9 +40,7 @@
                     </div>
                     <h3 class="tp-portfolio-title-2">{{ item.title }}</h3>
 
-                    <div class="tp-portfolio-view tp-portfolio-view-btn">
-                      <span>View <br /> Work</span>
-                    </div>
+                    
                   </nuxt-link>
                 </div>
               </div>
@@ -62,7 +60,7 @@ const project_data = [
     id: 1,
     img: "/images/portfolio/2/portfolio-3.jpg",
     tag: "Branding",
-    title: "Web Animation",
+    title: "Logo Design",
     time: 2023,
     cls: "prev-2",
   },
@@ -70,15 +68,15 @@ const project_data = [
     id: 2,
     img: "/images/portfolio/2/portfolio-2.jpg",
     tag: "Branding",
-    title: "Web Animation",
+    title: "Poster Design",
     time: 2023,
     cls: "prev-1",
   },
   {
     id: 3,
-    img: "/images/portfolio/2/portfolio-1.jpg",
+    img: "/images/portfolio/2/ID.png",
     tag: "Branding",
-    title: "Web Animation",
+    title: "Interior Design",
     time: 2023,
     cls: "active",
   },
@@ -86,7 +84,7 @@ const project_data = [
     id: 4,
     img: "/images/portfolio/2/portfolio-4.jpg",
     tag: "Branding",
-    title: "Web Animation",
+    title: "Motion Design",
     time: 2023,
     cls: "next-1",
   },
@@ -94,52 +92,11 @@ const project_data = [
     id: 5,
     img: "/images/portfolio/2/portfolio-5.jpg",
     tag: "Branding",
-    title: "Web Animation",
+    title: "Web Development",
     time: 2023,
     cls: "next-2",
   },
-  {
-    id: 6,
-    img: "/images/portfolio/2/portfolio-1.jpg",
-    tag: "Branding",
-    title: "Web Animation",
-    time: 2023,
-  },
-  {
-    id: 7,
-    img: "/images/portfolio/2/portfolio-2.jpg",
-    tag: "Branding",
-    title: "Web Animation",
-    time: 2023,
-  },
-  {
-    id: 8,
-    img: "/images/portfolio/2/portfolio-3.jpg",
-    tag: "Branding",
-    title: "Web Animation",
-    time: 2023,
-  },
-  {
-    id: 9,
-    img: "/images/portfolio/2/portfolio-1.jpg",
-    tag: "Branding",
-    title: "Web Animation",
-    time: 2023,
-  },
-  {
-    id: 10,
-    img: "/images/portfolio/2/portfolio-2.jpg",
-    tag: "Branding",
-    title: "Web Animation",
-    time: 2023,
-  },
-  {
-    id: 11,
-    img: "/images/portfolio/2/portfolio-3.jpg",
-    tag: "Branding",
-    title: "Web Animation",
-    time: 2023,
-  },
+  
 ];
 
 const {activeIndex,handleArrowClick}  = use3dSlider(project_data.length);

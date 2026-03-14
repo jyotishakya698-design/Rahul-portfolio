@@ -25,13 +25,13 @@
 
 <script setup lang="ts">
 const services = [
-  { name: "Frontend", bgColor: "#00CC97" },
-  { name: "Phototyping", bgColor: "#FF759C" },
+  { name: "Website Development", bgColor: "#00CC97" },
+  { name: "Logo Design", bgColor: "#FF759C" },
   { name: "Design solutions", bgColor: "#FFDB59", textColor: "#121212" },
-  { name: "Consulting", bgColor: "#FFDB59", textColor: "#121212" },
-  { name: "Brand strategy", bgColor: "#00CC97" },
+  { name: "Landing page", bgColor: "#FFDB59", textColor: "#121212" },
+  { name: "Poster Design", bgColor: "#00CC97" },
   { name: "UI/UX Design", bgColor: "#19B3F1" },
   { name: "Design Audit", bgColor: "#FF759C" },
-  { name: "Testing", bgColor: "#FFDB59", textColor: "#121212" },
+  { name: "Motion Designer", bgColor: "#FFDB59", textColor: "#121212" },
 ];
 </script>

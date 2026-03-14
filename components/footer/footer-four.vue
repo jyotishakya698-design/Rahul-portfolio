@@ -44,14 +44,14 @@
                 <div class="col-xl-6 col-lg-6 col-md-6">
                     <div class="tp-footer-6-copyright-text text-center text-md-start">
                       <span>
-                          © All Rights Reserved. By ThemePure
+                          © All Rights Reserved. Made by Jyoti Shakya 
                       </span>
                     </div>
                 </div>
                 <div class="col-xl-6 col-lg-6 col-md-6">
                     <div class="tp-footer-6-copyright-text text-center text-md-end">
                       <span>
-                          <a href="mailto:info@example.com">info@example.com</a>
+                          <a href="mailto:mksrahulrai@gmail.com">mksrahulrai@gmail.com</a>
                       </span>
                     </div>
                 </div>
@@ -68,6 +68,6 @@ const footer_links = [
   { subtitle: 'REGULAR UPDATES ON', title: 'Instagram', link: 'https://instagram.com' },
   { subtitle: 'WORD TALKS', title: 'Twitter', link: 'https://twitter.com' },
   { subtitle: 'SINGLE SHOTS', title: 'Dribbble', link: 'https://dribbble.com' },
-  { subtitle: 'COMPLETE PROJECTS', title: 'Behance', link: 'https://behance.com' },
+  { subtitle: 'COMPLETE PROJECTS', title: 'Behance', link: 'https://www.behance.net/mksrahulrai' },
 ]
 </script>

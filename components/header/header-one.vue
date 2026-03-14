@@ -82,14 +82,14 @@
               <div class="col-xl-2 col-lg-2 col-md-5 col-6">
                 <div class="logo">
                   <nuxt-link class="logo-white" href="/">
-                    <img style="width: 115px" src="/images/logo/logo.png" alt="" />
+                    <!--<img style="width: 115px" src="/images/logo/logo.png" alt="" />-->
                   </nuxt-link>
                   <nuxt-link class="logo-black" href="/">
-                    <img
+                    <!--<img
                       style="width: 115px"
                       src="/images/logo/logo-black.png"
                       alt=""
-                    />
+                    />-->
                   </nuxt-link>
                 </div>
               </div>

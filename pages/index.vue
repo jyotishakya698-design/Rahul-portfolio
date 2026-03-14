@@ -30,12 +30,12 @@
     <skill-area />
     <!-- skill area -->
 
-    <!-- award area -->
-    <award-area />
+    <!-- award area 
+    <award-area />-->
     <!-- award area -->
 
-    <!-- testimonial area -->
-    <testimonial-one />
+    <!-- testimonial area 
+    <testimonial-one />-->
     <!-- testimonial area -->
 
     <!-- resources-area -->

@@ -33,7 +33,7 @@
                           <h2 class="accordion-header" :id="`heading-${item.tab_id}`">
                               <button :class="`accordion-button ${item.active ? '' : 'collapsed'}`" type="button"
                                 data-bs-toggle="collapse" :data-bs-target="`#collapse-${item.tab_id}`" :aria-expanded="`${item.active ? 'true' : 'false'}`" :aria-controls="`collapse-${item.tab_id}`">
-                                <span>{{`${item.id > 9 ? item.id : `0${item.id}`}`}}</span>
+                                <span>{{`${item.id > 11 ? item.id : `0${item.id}`}`}}</span>
                                 {{item.question}}
                               </button>
                           </h2>

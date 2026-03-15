@@ -63,46 +63,72 @@ const accordion_data = [
     {
       id: 1,
       tab_id: "one",
-      question: "UI/UX Design",
-      answer: "Project systematization is something I place a lot of emphasis on. My passion Design Systems.",
+      question: "Logo Design",
       lists: [
-        "Interface design",
-        "Creating design systems",
-        "Ui kits",
+        "Unique and memorable brand identity concepts",
+        "Modern, minimal, and professional logo styles",
+        "High-resolution files for web, print, and branding use",
       ]
     },
     {
       id: 2,
       tab_id: "two",
       active:true,
-      question: "Design Systems",
-      answer: "Project systematization is something I place a lot of emphasis on. My passion Design Systems.",
+      question: "Brochure Design",
       lists: [
-        "Interface design",
-        "Creating design systems",
-        "Ui kits",
+        "Clean and professional multi-page layouts",
+        "Creative visuals that highlight services or products",
+        "Print-ready and digital brochure formats",
       ]
     },
     {
       id: 3,
       tab_id: "three",
-      question: "Website Design",
-      answer: "Project systematization is something I place a lot of emphasis on. My passion Design Systems.",
+      question: "Flyer / Mailer Design",
       lists: [
-        "Interface design",
-        "Creating design systems",
-        "Ui kits",
+        "Eye-catching promotional flyer designs",
+        "CStrong typography and visual hierarchy",
+        "Designed for both digital sharing and print",
       ]
     },
     {
       id: 4,
       tab_id: "four",
-      question: "Branding",
-      answer: "Project systematization is something I place a lot of emphasis on. My passion Design Systems.",
+      question: "Letterhead Design",
       lists: [
-        "Interface design",
-        "Creating design systems",
-        "Ui kits",
+        "Professional corporate stationery design",
+        "Brand-aligned typography and layout",
+        "Print-ready formats for official documents",
+      ]
+    },
+    {
+      id: 5,
+      tab_id: "five",
+      question: "Corporate PPT Design",
+      lists: [
+        "Modern and engaging presentation slides",
+        "Clean layouts with professional infographics",
+        "Designed to impress clients and stakeholders",
+      ]
+    },
+    {
+      id: 6,
+      tab_id: "Six",
+      question: "Social Media Posts Design",
+      lists: [
+        "Creative and scroll-stopping social media graphics",
+        "Consistent brand style across all posts",
+        "Optimized designs for Instagram, Facebook, and LinkedIn",
+      ]
+    },
+    {
+      id: 5,
+      tab_id: "five",
+      question: "Corporate PPT Design",
+      lists: [
+        "Modern and engaging presentation slides",
+        "Clean layouts with professional infographics",
+        "Designed to impress clients and stakeholders",
       ]
     }
   ];

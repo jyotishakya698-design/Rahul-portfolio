@@ -25,13 +25,15 @@
 
 <script setup lang="ts">
 const services = [
-  { name: "Website Development", bgColor: "#00CC97" },
+  { name: "Brochure Design", bgColor: "#00CC97" },
   { name: "Logo Design", bgColor: "#FF759C" },
-  { name: "Design solutions", bgColor: "#FFDB59", textColor: "#121212" },
-  { name: "Landing page", bgColor: "#FFDB59", textColor: "#121212" },
-  { name: "Poster Design", bgColor: "#00CC97" },
-  { name: "UI/UX Design", bgColor: "#19B3F1" },
-  { name: "Design Audit", bgColor: "#FF759C" },
-  { name: "Motion Designer", bgColor: "#FFDB59", textColor: "#121212" },
+  { name: "Flyer / Mailer Design", bgColor: "#FFDB59", textColor: "#121212" },
+  { name: "Letterhead Design", bgColor: "#FFDB59", textColor: "#121212" },
+  { name: "Corporate PPT Design", bgColor: "#00CC97" },
+  { name: "UI/UX Design (Web & Mobile)", bgColor: "#19B3F1" },
+  { name: "Social Media Posts Design", bgColor: "#FF759C" },
+  { name: "Catalogue Design", bgColor: "#FFDB59", textColor: "#121212" },
+  { name: "Branding Collateral", bgColor: "#FF759C" },
+  { name: "Video Editing", bgColor: "#00CC97" },
 ];
 </script>

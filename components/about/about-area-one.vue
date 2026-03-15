@@ -35,7 +35,7 @@
                           </div>
                           <div class="col-md-4 col-sm-6 mb-30">
                               <div class="tp-about-fact-item">
-                                <h4><counter-item :min="0" :max="13" />+</h4>
+                                <h4><counter-item :min="0" :max="7" />+</h4>
                                 <p>Years of Experience</p>
                               </div>
                           </div>

@@ -122,15 +122,45 @@ const accordion_data = [
       ]
     },
     {
-      id: 5,
-      tab_id: "five",
-      question: "Corporate PPT Design",
+      id: 7,
+      tab_id: "Seven",
+      question: "Catalogue Design",
       lists: [
-        "Modern and engaging presentation slides",
-        "Clean layouts with professional infographics",
-        "Designed to impress clients and stakeholders",
+        "Organized and visually appealing product layouts",
+        "Clear product information with strong visuals",
+        "Print-ready and digital catalogue versions",
       ]
-    }
+    }, 
+    {
+      id: 8,
+      tab_id: "Eight",
+      question: "Branding Collateral",
+      lists: [
+        "Business cards, stationery, and marketing materials",
+        "Consistent brand identity across all assets",
+        "Professional designs for strong brand presence",
+      ]
+    },
+    {
+      id: 9,
+      tab_id: "Nine",
+      question: "UI/UX Design (Web & Mobile)",
+      lists: [
+        "User-friendly website and mobile app interfaces",
+        "Modern UI with smooth user experience",
+        "Wireframes, prototypes, and high-quality design layouts",
+      ]
+    },
+    {
+      id: 10,
+      tab_id: "Ten",
+      question: "Video Editing",
+      lists: [
+        "Professional editing for ads, reels, and promos",
+        "Smooth transitions, effects, and motion graphics",
+        "Optimized videos for social media and marketing",
+      ]
+    },
   ];
 
 

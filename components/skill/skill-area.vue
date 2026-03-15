@@ -111,35 +111,32 @@ const skill_data = [
     active:true,
     items: [
       {
-        img: '/images/skill/figma.png',
-        title: "Figma",
-        percent: 95,
+        img: '/images/skill/1.png',
       },
       {
-        img: '/images/skill/sketch.png',
-        title: "Sketch",
-        percent: 82
+        img: '/images/skill/2.png',
       },
       {
-        img: '/images/skill/photoshop.png',
-        title: "Photoshop",
-        percent: 98
+        img: '/images/skill/3.png',
       },
       {
-        img: '/images/skill/xd.png',
-        title: "Adobe XD",
-        percent: 85
+        img: '/images/skill/4.png',
       },
       {
-        img: '/images/skill/in.png',
-        title: "InVision",
-        percent: 90
+        img: '/images/skill/5.png',
       },
       {
-        img: '/images/skill/ai.png',
-        title: "Illustrator",
-        percent: 80
-      }
+        img: '/images/skill/6.png',
+      },
+      {
+        img: '/images/skill/7.png',
+      },
+      {
+        img: '/images/skill/8.png',
+      },
+      {
+        img: '/images/skill/9.png',
+      },
     ],
   }
 ];

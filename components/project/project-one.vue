@@ -7,7 +7,7 @@
       <div class="tp-portfolio-shape">
         <img
           class="tp-portfolio-shape-2-1 tp-zoom-in-out"
-          src="/images/portfolio/shape-3.png"
+          src="/images/portfolio/shape-3.jpg"
           alt=""
         />
       </div>
@@ -58,7 +58,7 @@
 const project_data = [
   {
     id: 1,
-    img: "/images/portfolio/2/1.png",
+    img: "/images/portfolio/2/1.jpg",
     tag: "Branding",
     title: "Logo Design",
     time: 2023,
@@ -66,7 +66,7 @@ const project_data = [
   },
   {
     id: 2,
-    img: "/images/portfolio/2/2.png",
+    img: "/images/portfolio/2/2.jpg",
     tag: "Branding",
     title: "Poster Design",
     time: 2023,
@@ -74,7 +74,7 @@ const project_data = [
   },
   {
     id: 3,
-    img: "/images/portfolio/2/3.png",
+    img: "/images/portfolio/2/3.jpg",
     tag: "Branding",
     title: "Interior Design",
     time: 2023,
@@ -82,7 +82,7 @@ const project_data = [
   },
   {
     id: 4,
-    img: "/images/portfolio/2/4.png",
+    img: "/images/portfolio/2/4.jpg",
     tag: "Branding",
     title: "Motion Design",
     time: 2023,
@@ -90,7 +90,7 @@ const project_data = [
   },
   {
     id: 5,
-    img: "/images/portfolio/2/5.png",
+    img: "/images/portfolio/2/5.jpg",
     tag: "Branding",
     title: "Web Development",
     time: 2023,
@@ -98,7 +98,7 @@ const project_data = [
   },
   {
     id: 5,
-    img: "/images/portfolio/2/6.png",
+    img: "/images/portfolio/2/6.jpg",
     tag: "Branding",
     title: "Web Development",
     time: 2023,
@@ -106,7 +106,7 @@ const project_data = [
   },
   {
     id: 5,
-    img: "/images/portfolio/2/7.png",
+    img: "/images/portfolio/2/7.jpg",
     tag: "Branding",
     title: "Web Development",
     time: 2023,
@@ -114,7 +114,7 @@ const project_data = [
   },
   {
     id: 5,
-    img: "/images/portfolio/2/8.png",
+    img: "/images/portfolio/2/8.jpg",
     tag: "Branding",
     title: "Web Development",
     time: 2023,
@@ -122,7 +122,7 @@ const project_data = [
   },
   {
     id: 5,
-    img: "/images/portfolio/2/9.png",
+    img: "/images/portfolio/2/9.jpg",
     tag: "Branding",
     title: "Web Development",
     time: 2023,
@@ -130,7 +130,7 @@ const project_data = [
   },
   {
     id: 5,
-    img: "/images/portfolio/2/10.png",
+    img: "/images/portfolio/2/10.jpg",
     tag: "Branding",
     title: "Web Development",
     time: 2023,
@@ -138,7 +138,7 @@ const project_data = [
   },
   {
     id: 5,
-    img: "/images/portfolio/2/11.png",
+    img: "/images/portfolio/2/11.jpg",
     tag: "Branding",
     title: "Web Development",
     time: 2023,
@@ -146,7 +146,7 @@ const project_data = [
   },
   {
     id: 5,
-    img: "/images/portfolio/2/12.png",
+    img: "/images/portfolio/2/12.jpg",
     tag: "Branding",
     title: "Web Development",
     time: 2023,
@@ -154,7 +154,7 @@ const project_data = [
   },
   {
     id: 5,
-    img: "/images/portfolio/2/13.png",
+    img: "/images/portfolio/2/13.jpg",
     tag: "Branding",
     title: "Web Development",
     time: 2023,
@@ -162,7 +162,7 @@ const project_data = [
   },
   {
     id: 5,
-    img: "/images/portfolio/2/14.png",
+    img: "/images/portfolio/2/14.jpg",
     tag: "Branding",
     title: "Web Development",
     time: 2023,

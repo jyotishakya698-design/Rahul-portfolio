@@ -16,7 +16,7 @@
     <!-- marquee area -->
 
     <!-- about area -->
-    <about-area-one />
+    <about-area-one id="about-me" />
     <!-- about area -->
 
     <!-- portfolio area -->
@@ -24,7 +24,7 @@
     <!-- portfolio area -->
 
     <!-- skill area -->
-    <skill-area />
+    <skill-area id="skills" />
     <!-- skill area -->
 
     

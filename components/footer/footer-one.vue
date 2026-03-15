@@ -34,7 +34,7 @@
                 </div>
                 <div class="col-xl-6 col-lg-6 col-md-6">
                     <div class="tp-footer-btn text-center ">
-                      <nuxt-link :class="`${style_2?'tp-btn-grey-xl':'tp-btn-white-xl'} w-100`" href="/contact">
+                      <nuxt-link :class="`${style_2?'tp-btn-grey-xl':'tp-btn-white-xl'} w-100`" href="https://wa.me/+919899875369">
                           <div>
                             <span>Discuss Project</span>
                           </div>
@@ -53,14 +53,14 @@
           <div class="row">
               <div class="col-xl-6 col-md-6">
                 <div class="tp-copyright-content-left text-center text-md-start">
-                    <p>{{new Date().getFullYear()}} Diego, All Rights Reserved • 
-                      <span>Credits</span>
+                    <p>{{new Date().getFullYear()}} Rahul R, All Rights Reserved • 
+                      <span>Made by Jyoti Shakya </span>
                     </p>
                 </div>
               </div>
               <div class="col-xl-6 col-md-6">
                 <div class="tp-copyright-content-right text-center text-md-end">
-                    <span>{{new Date().getFullYear()}} Portfolio</span>
+                    <span>{{new Date().getFullYear()}}</span>
                 </div>
               </div>
           </div>

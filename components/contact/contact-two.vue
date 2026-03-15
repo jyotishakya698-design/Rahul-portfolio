@@ -25,7 +25,7 @@
                     <div class="col-xl-6 col-lg-6 col-md-6">
                         <div class="contact-inner__mail-info">
                           <span>Email Me:</span>
-                          <a href="mailto:hello@diego.com">hello@diego.com</a>
+                          <a href="mailto:Mksrahulrai@gmail.com">Mksrahulrai@gmail.com</a>
                         </div>
                     </div>
                     <div class="col-xl-6 col-lg-6 col-md-6">

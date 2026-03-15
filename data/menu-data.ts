@@ -31,7 +31,13 @@ const menu_data: IMenuDT[] = [
   {
     id: 2,
     title: "About Me",
-    link: "/about",
+    link: "/#about-me",
+    has_dropdown: false,
+  },
+  {
+    id: 3,
+    title: "Skills",
+    link: "/#skills",
     has_dropdown: false,
   },
 
@@ -49,11 +55,11 @@ const menu_data: IMenuDT[] = [
     // ],
   },
   
-  {
-    id: 6,
-    title: "Contact",
-    link: "/contact",
-    has_dropdown: false,
-  },
+  // {
+  //   id: 6,
+  //   title: "Contact",
+  //   link: "/#contact",
+  //   has_dropdown: false,
+  // },
 ];
 export default menu_data;

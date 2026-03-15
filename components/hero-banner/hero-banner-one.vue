@@ -72,8 +72,8 @@
             <div class="col-xl-5 col-lg-5 col-md-12">
               <div class="tp-hero-thumb-wrapper text-center text-lg-end p-relative z-index-1">
                   <div class="tp-hero-thumb-shape">
-                    <img class="tp-hero-thumb-shape-1" data-speed="1.4"  src="/images/hero/shape/hero-shape-1.png" alt="">
-                    <img class="tp-hero-thumb-shape-2 d-none d-xl-block" data-speed="1.2" src="/images/hero/shape/hero-shape-2.png" alt="">
+                    <img class="tp-hero-thumb-shape-1" data-speed="1.4"  src="/images/hero/shape/1.png" alt="">
+                    <img class="tp-hero-thumb-shape-2 d-none d-xl-block" data-speed="1.2" src="/images/hero/shape/2.png" alt="">
                     <span class="tp-hero-thumb-shape-3"></span>
                   </div>
                   <div class="tp-hero-thumb">

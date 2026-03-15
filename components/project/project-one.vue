@@ -7,7 +7,7 @@
       <div class="tp-portfolio-shape">
         <img
           class="tp-portfolio-shape-2-1 tp-zoom-in-out"
-          src="/images/portfolio/shape-3.jpg"
+          src="/images/portfolio/shape-3.png"
           alt=""
         />
       </div>

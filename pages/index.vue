@@ -6,9 +6,6 @@
     <hero-banner-one />
     <!-- hero banner -->
 
-    <!-- brand area -->
-    <brand-area-one />
-    <!-- brand area -->
 
     <!-- service area -->
     <service-area-one />
@@ -30,17 +27,7 @@
     <skill-area />
     <!-- skill area -->
 
-    <!-- award area 
-    <award-area />-->
-    <!-- award area -->
-
-    <!-- testimonial area 
-    <testimonial-one />-->
-    <!-- testimonial area -->
-
-    <!-- resources-area -->
-    <resources-area />
-    <!-- resources-area -->
+    
 
     </nuxt-layout>
   </div>

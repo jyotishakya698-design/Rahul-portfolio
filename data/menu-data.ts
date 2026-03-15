@@ -35,27 +35,18 @@ const menu_data: IMenuDT[] = [
     has_dropdown: false,
   },
 
-  {
-    id: 3,
-    title: "Services",
-    link: "#",
-    has_dropdown: true,
-    sub_menus: [
-      { link: "/service", title: "Service" },
-      { link: "/service-details", title: "Service Details" },
-    ],
-  },
+  
   {
     id: 4,
     title: "Portfolio",
     link: "#",
-    has_dropdown: true,
-    sub_menus: [
-      { link: "/portfolio", title: "Portfolio" },
-      { link: "/portfolio-details", title: "Portfolio Details" },
-      { link: "/portfolio-details-2", title: "Portfolio Details 02" },
-      { link: "/portfolio-details-3", title: "Portfolio Details 03" },
-    ],
+    // has_dropdown: true,
+    // sub_menus: [
+    //   { link: "/portfolio", title: "Portfolio" },
+    //   { link: "/portfolio-details", title: "Portfolio Details" },
+    //   { link: "/portfolio-details-2", title: "Portfolio Details 02" },
+    //   { link: "/portfolio-details-3", title: "Portfolio Details 03" },
+    // ],
   },
   {
     id: 5,

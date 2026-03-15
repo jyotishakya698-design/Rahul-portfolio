@@ -68,6 +68,6 @@ const footer_links = [
   { subtitle: 'REGULAR UPDATES ON', title: 'Instagram', link: 'https://instagram.com' },
   { subtitle: 'WORD TALKS', title: 'Twitter', link: 'https://twitter.com' },
   { subtitle: 'SINGLE SHOTS', title: 'Dribbble', link: 'https://dribbble.com' },
-  { subtitle: 'COMPLETE PROJECTS', title: 'Behance', link: 'https://www.behance.net/mksrahulrai' },
+  { subtitle: 'COMPLETE PROJECTS', title: 'Behance', link: 'https://www.behance.net/mksrahulrai/mksrahulrai' },
 ]
 </script>

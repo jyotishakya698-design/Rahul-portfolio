@@ -25,7 +25,7 @@
               <div class="row">
                 <div class="col-xl-6 col-lg-6 col-md-6">
                     <div class="tp-footer-btn text-center ">
-                      <a :class="`${style_2?'tp-btn-white-xl':'tp-btn-green'} w-100`" href="mailto:WriteaMessage">
+                      <a :class="`${style_2?'tp-btn-white-xl':'tp-btn-green'} w-100`" href="mailto:Mksrahulrai@gmail.com">
                           <div>
                             <span>Write a Message</span>
                           </div>
@@ -42,9 +42,6 @@
                     </div>
                 </div>
               </div>
-          </div>
-          <div class="row gx-50">
-              <footer-social />
           </div>
         </div>
     </div>

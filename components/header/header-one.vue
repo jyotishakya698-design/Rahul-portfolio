@@ -8,7 +8,7 @@
             <div class="row align-items-center">
               <div class="col-xl-2 col-lg-2 col-md-5 col-6">
                 <div class="logo">
-                  <nuxt-link class="logo-white" href="/">
+                  <!-- <nuxt-link class="logo-white" href="/">
                     <img src="/images/logo/logo.png" alt="" style="width: 115px" />
                   </nuxt-link>
                   <nuxt-link class="logo-black" href="/">
@@ -17,7 +17,7 @@
                       src="/images/logo/logo-black.png"
                       alt=""
                     />
-                  </nuxt-link>
+                  </nuxt-link> -->
                 </div>
               </div>
               <div class="col-xl-6 col-lg-7 d-none d-lg-block">

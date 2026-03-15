@@ -39,7 +39,7 @@ const menu_data: IMenuDT[] = [
   {
     id: 4,
     title: "Portfolio",
-    link: "#",
+    link: "/#portfolio",
     // has_dropdown: true,
     // sub_menus: [
     //   { link: "/portfolio", title: "Portfolio" },
@@ -48,18 +48,7 @@ const menu_data: IMenuDT[] = [
     //   { link: "/portfolio-details-3", title: "Portfolio Details 03" },
     // ],
   },
-  {
-    id: 5,
-    title: "Blog",
-    link: "#",
-    has_dropdown: true,
-    sub_menus: [
-      { link: "/blog", title: "Blog List" },
-      { link: "/blog-sidebar", title: "Blog Sidebar" },
-      { link: "/blog-details/6", title: "Blog Details" },
-      { link: "/blog-details-2", title: "Blog Details 02" },
-    ],
-  },
+  
   {
     id: 6,
     title: "Contact",

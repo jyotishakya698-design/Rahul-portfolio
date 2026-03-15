@@ -20,7 +20,7 @@
     <!-- about area -->
 
     <!-- portfolio area -->
-    <project-one/>
+    <project-one id="portfolio" />
     <!-- portfolio area -->
 
     <!-- skill area -->

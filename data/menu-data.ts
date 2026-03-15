@@ -5,7 +5,7 @@ const menu_data: IMenuDT[] = [
   {
     id: 1,
     title: "Home",
-    link: "#",
+    link: "/#home",
     home_dropdown: false,
     // sub_menus: [
     //   {link: "/", title: "Home 01", img: '/images/menu/home-1.jpg'},

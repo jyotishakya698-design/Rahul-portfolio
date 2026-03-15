@@ -3,7 +3,7 @@
     <nuxt-layout name="layout-one">
       
     <!-- hero banner -->
-    <hero-banner-one />
+    <hero-banner-one id="home" />
     <!-- hero banner -->
 
 

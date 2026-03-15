@@ -3,13 +3,13 @@
       <div class="tp-hero-social-wrapper">
         <span class="tp-hero-social-bar"></span>
         <div class="tp-hero-social">
-            <a href="#">
+            <a href="Mksrahulrai@gmail.com">
               <svg-email/>
             </a>
-            <a href="#">
-              <svg-dribble/>
+            <a href="https://www.youtube.com/@HindiDreamStorys">
+              <svg-youtube/>
             </a>
-            <a href="#">
+            <a href="https://www.behance.net/mksrahulrai">
               <svg-behance/>
             </a>
         </div>
@@ -49,7 +49,7 @@
 
                     <div class="tp-hero-btn wrap ">
                         <div class="tp-hover-btn-wrapper tp-btn-bounce">
-                          <nuxt-link href="/contact" class="tp-hover-btn tp-hover-btn-item tp-btn-circle square">
+                          <nuxt-link href="https://wa.me/+919899875369" class="tp-hover-btn tp-hover-btn-item tp-btn-circle square">
                               <span class="tp-btn-circle-text">
                                 Get <br> In Touch
                               </span>
